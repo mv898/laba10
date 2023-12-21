@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Buses>
+  <Bus>
+    <Route>1</Route>
+    <Date>2023-12-01</Date>
+    <AvailableSeats>10</AvailableSeats>
+    <Passengers>
+      <Passenger>
+        <Name>Елена Смирнова</Name>
+        <SeatNumber>2</SeatNumber>
+      </Passenger>
+      <Passenger>
+        <Name>Елена Смирнова</Name>
+        <SeatNumber>2</SeatNumber>
+      </Passenger>
+      <Passenger>
+        <Name>Алексей Петров</Name>
+        <SeatNumber>3</SeatNumber>
+      </Passenger>
+    </Passengers>
+  </Bus>
+  <Bus>
+    <Route>2</Route>
+    <Date>2023-12-02</Date>
+    <AvailableSeats>20</AvailableSeats>
+    <Passengers>
+      <Passenger>
+        <Name>Мария Козлова</Name>
+        <SeatNumber>1</SeatNumber>
+      </Passenger>
+      <Passenger>
+        <Name>Андрей Сидоров</Name>
+        <SeatNumber>2</SeatNumber>
+      </Passenger>
+    </Passengers>
+  </Bus>
+  <Bus>
+    <Route>3</Route>
+    <Date>2023-12-03</Date>
+    <AvailableSeats>15</AvailableSeats>
+    <Passengers>
+      <Passenger>
+        <Name>Ольга Новикова</Name>
+        <SeatNumber>1</SeatNumber>
+      </Passenger>
+    </Passengers>
+  </Bus>
+</Buses>
